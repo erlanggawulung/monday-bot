@@ -1,2 +1,2 @@
-# mondaybot
-Slack bot to call Monday.com APIs
+# monday-bot
+Slack bot to call monday.com APIs
